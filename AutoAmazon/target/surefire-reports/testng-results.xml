@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="80278" started-at="2019-03-06T05:48:30Z" finished-at="2019-03-06T05:49:50Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="80278" started-at="2019-03-06T05:48:30Z" finished-at="2019-03-06T05:49:50Z">
+      <class name="com.amazon.Test.MainTest">
+        <test-method status="PASS" signature="URLOpen()[pri:1, instance:com.amazon.Test.MainTest@38082d64]" name="URLOpen" duration-ms="48719" started-at="2019-03-06T05:48:30Z" finished-at="2019-03-06T05:49:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URLOpen -->
+        <test-method status="PASS" signature="SelectBooks()[pri:2, instance:com.amazon.Test.MainTest@38082d64]" name="SelectBooks" duration-ms="5968" started-at="2019-03-06T05:49:19Z" finished-at="2019-03-06T05:49:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectBooks -->
+        <test-method status="PASS" signature="SearchBook()[pri:3, instance:com.amazon.Test.MainTest@38082d64]" name="SearchBook" duration-ms="7490" started-at="2019-03-06T05:49:25Z" finished-at="2019-03-06T05:49:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchBook -->
+        <test-method status="PASS" signature="ChooseBook()[pri:4, instance:com.amazon.Test.MainTest@38082d64]" name="ChooseBook" duration-ms="14561" started-at="2019-03-06T05:49:32Z" finished-at="2019-03-06T05:49:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChooseBook -->
+        <test-method status="PASS" signature="ReceiveTitle()[pri:5, instance:com.amazon.Test.MainTest@38082d64]" name="ReceiveTitle" duration-ms="531" started-at="2019-03-06T05:49:47Z" finished-at="2019-03-06T05:49:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReceiveTitle -->
+        <test-method status="PASS" signature="ObtainAuthors()[pri:6, instance:com.amazon.Test.MainTest@38082d64]" name="ObtainAuthors" duration-ms="650" started-at="2019-03-06T05:49:47Z" finished-at="2019-03-06T05:49:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ObtainAuthors -->
+        <test-method status="PASS" signature="DrawKindlePrice()[pri:7, instance:com.amazon.Test.MainTest@38082d64]" name="DrawKindlePrice" duration-ms="504" started-at="2019-03-06T05:49:48Z" finished-at="2019-03-06T05:49:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DrawKindlePrice -->
+        <test-method status="PASS" signature="DrawPaperPrice()[pri:8, instance:com.amazon.Test.MainTest@38082d64]" name="DrawPaperPrice" duration-ms="88" started-at="2019-03-06T05:49:49Z" finished-at="2019-03-06T05:49:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DrawPaperPrice -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.amazon.Test.MainTest@38082d64]" name="driverClose" is-config="true" duration-ms="1200" started-at="2019-03-06T05:49:49Z" finished-at="2019-03-06T05:49:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+      </class> <!-- com.amazon.Test.MainTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
